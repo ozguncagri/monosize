@@ -16,7 +16,7 @@ Output will be always 6+1+2 = 9 characters long until YottaByte limit is exceede
 ## Installation
 
 ```sh
-go get github.com/ozguncagri/monosize
+go get -u github.com/ozguncagri/monosize
 ```
 
 ## Sample Usage
